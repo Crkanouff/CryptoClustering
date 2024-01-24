@@ -15,7 +15,7 @@ The first step was reviewing the data. Data was then prepared using StatdardScal
 * The best values for k were found uing the PCA Data
 * Cruptocurrenices were clustered using PCA
 * Weight of each feature was found
-* Use Standard Codin Conventions and FOrmating
+* Use Standard Coding Conventions and Formating
 
 
 # Summary
